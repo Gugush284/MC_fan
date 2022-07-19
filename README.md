@@ -1,2 +1,2 @@
-# MC_fan
-Fan controlled by microcontroller
+# Fan controlled by microcontroller
+Status - development completed
